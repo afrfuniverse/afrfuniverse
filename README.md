@@ -40,9 +40,9 @@ I like building software that solves real business problems: fewer Excel files, 
 
 ## Contact
 
-Website: **https://alirezafrf.com**  
+Website: **https://afrfuniverse.com**  
 Location: **Cyprus**  
-Email: **aforoughifar@gmail.com**
+Email: **a.foroughifar@Outlook.com**
 
 ---
 
