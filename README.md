@@ -1,49 +1,113 @@
-﻿# Hi, I'm Alireza Foroughifar 👋
+﻿# AFRF Universe
 
-**Full-Stack Developer & IT/Security Engineer** building real-world business software, automation systems and SaaS platforms.
+### Personal Operating System for systems, automation, AI and real-world chaos control.
 
-I design and develop practical web applications for companies that need more than a simple website — systems that manage operations, customers, payments, workflows, reports, QR platforms, AI automation and business processes.
+I don’t build pages.  
+I build systems.
 
-## What I Build
-
-- ERP, CRM and business management platforms
-- SaaS products and subscription-based web apps
-- AI automation tools and content systems
-- Telegram bots and workflow automation
-- Dynamic QR code platforms
-- Logistics, construction and production management systems
-- VPS, Docker, Supabase and secure deployment setups
-
-## Tech Stack
-
-**Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS  
-**Backend:** Node.js, Laravel, PHP, Express  
-**Database & Cloud:** Supabase, PostgreSQL, MySQL, Docker, VPS  
-**Automation:** Telegram Bots, AI APIs, scheduled workers, business workflows  
-**IT & Security:** Networking, Linux servers, system administration, security-minded deployments
-
-## Selected Work
-
-Most of my production repositories are private, but my work includes:
-
-- **MyQRCodePlus** — Dynamic QR code SaaS platform
-- **EMOSEM** — AI-powered social media automation and Telegram sharing platform
-- **Metalux ERP** — Aluminum quotation, production and invoice system
-- **Mermer ERP** — Marble business management platform
-- **Logycy ERP** — Logistics, shipment and reporting system
-- **Hardworker ERP** — Workforce, payroll and project management system
-- **Oztemur ERP** — Construction workforce and payroll management platform
-
-## Focus
-
-I like building software that solves real business problems: fewer Excel files, fewer manual tasks, cleaner workflows, better reports and systems that companies can actually use every day.
-
-## Contact
-
-Website: **https://afrfuniverse.com**  
-Location: **Cyprus**  
-Email: **a.foroughifar@Outlook.com**
+I work somewhere between code, servers, automation, AI and real business problems — turning messy workflows, manual operations and broken processes into usable software.
 
 ---
 
-> Building practical software for real businesses.
+## Core
+
+I design and build practical digital systems for companies that need more than a simple website.
+
+My work usually lives inside real operations:
+
+- business management platforms
+- ERP / CRM systems
+- SaaS products
+- AI automation tools
+- Telegram bots and workflow automation
+- dynamic QR platforms
+- logistics, construction and production systems
+- VPS, Docker, Supabase and secure deployment setups
+
+Less noise.  
+Fewer Excel files.  
+Cleaner workflows.  
+Systems people can actually use every day.
+
+---
+
+## Artifacts
+
+### MyQRCodePlus
+Dynamic QR code SaaS platform for smart digital profiles, business links and QR-based workflows.
+
+### EMOSEM
+AI-powered social media automation and Telegram sharing platform with scheduled publishing, content generation and media workflows.
+
+### Metalux ERP
+Aluminum quotation, design, material recipe, production and invoice management system.
+
+### Mermer ERP
+Marble business management platform for invoices, customers, products, stock and operational workflows.
+
+### Logycy ERP
+Logistics, shipment, manifest, reporting and operational intelligence system.
+
+### Hardworker ERP
+Workforce, payroll, attendance, project and field-operation management system.
+
+### Oztemur ERP
+Construction workforce and payroll management platform built around real company workflows.
+
+Most production repositories are private because they belong to real businesses, real data and real operations.
+
+---
+
+## Stack
+
+**Frontend**  
+TypeScript • React • Next.js • Vite • Tailwind CSS
+
+**Backend**  
+Node.js • Express • Laravel • PHP
+
+**Database & Cloud**  
+Supabase • PostgreSQL • MySQL • Docker • VPS
+
+**Automation**  
+Telegram Bots • AI APIs • scheduled workers • business workflows
+
+**IT & Security**  
+Linux servers • networking • system administration • security-minded deployments
+
+---
+
+## Build Log
+
+**2026**  
+Built AI-driven social media automation systems.  
+Developed aluminum calculation and design workflows.  
+Created logistics reporting and analyst tools.  
+Built ERP-style platforms for real business operations.
+
+**2025**  
+Built CRM modules, QR platforms and internal business automation tools.  
+Worked across WordPress, Perfex CRM, Laravel, Supabase and custom deployments.
+
+---
+
+## Focus
+
+I like building software that solves ugly real-world problems.
+
+Not demo apps.  
+Not template websites.  
+Not pretty pages with no engine behind them.
+
+Systems.
+
+---
+
+## Traces
+
+No contact form.  
+If you need me, you already know where to find me.
+
+Website: https://afrfuniverse.com  
+GitHub: https://github.com/afrfuniverse  
+Location: Cyprus
