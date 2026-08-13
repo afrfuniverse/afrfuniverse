@@ -1,113 +1,74 @@
-﻿# AFRF Universe
+<div align="center">
 
-### Personal Operating System for systems, automation, AI and real-world chaos control.
+# Alireza Foroughifar
 
-I don’t build pages.  
-I build systems.
+### Full-Stack Engineer · Business Systems · Automation · Infrastructure
 
-I work somewhere between code, servers, automation, AI and real business problems — turning messy workflows, manual operations and broken processes into usable software.
+**I build production systems—not just screens.**<br>
+ERP, finance, logistics, workforce operations, SaaS, and AI-assisted automation.
 
----
+[LinkedIn](https://www.linkedin.com/in/alireza-foroughifar) · [GitHub](https://github.com/afrfuniverse) · Cyprus
 
-## Core
-
-I design and build practical digital systems for companies that need more than a simple website.
-
-My work usually lives inside real operations:
-
-- business management platforms
-- ERP / CRM systems
-- SaaS products
-- AI automation tools
-- Telegram bots and workflow automation
-- dynamic QR platforms
-- logistics, construction and production systems
-- VPS, Docker, Supabase and secure deployment setups
-
-Less noise.  
-Fewer Excel files.  
-Cleaner workflows.  
-Systems people can actually use every day.
+</div>
 
 ---
 
-## Artifacts
+## About
 
-### MyQRCodePlus
-Dynamic QR code SaaS platform for smart digital profiles, business links and QR-based workflows.
+I turn complex business workflows into maintainable software that teams can use every day. My work spans product design, full-stack development, data architecture, automation, deployment, and operational support.
 
-### EMOSEM
-AI-powered social media automation and Telegram sharing platform with scheduled publishing, content generation and media workflows.
+I focus on practical systems that reduce repetitive work, replace fragmented spreadsheets, and make day-to-day operations easier to understand and control.
 
-### Metalux ERP
-Aluminum quotation, design, material recipe, production and invoice management system.
+## Selected systems
 
-### Mermer ERP
-Marble business management platform for invoices, customers, products, stock and operational workflows.
+| System | Operational focus |
+| --- | --- |
+| **KASA Finance** | Cash, bank, cheque, payment, reconciliation, reporting, multi-currency, and controlled Excel workflows. |
+| **Metalux ERP** | Aluminum quotation and calculation, material planning, production, purchasing, invoicing, and project finance. |
+| **Mermer ERP** | Customer, product, stock, invoicing, payment, and operational workflows for marble businesses. |
+| **Logycy ERP** | Shipment, manifest, cheque, currency, reporting, and operational intelligence for logistics workflows. |
+| **Oztemur ERP** | Workforce, payroll, attendance, and project operations for construction teams. |
+| **Hardworker ERP** | Attendance, payroll, project, and field-team management. |
+| **MyQRCodePlus** | Dynamic QR SaaS for digital profiles, business links, and QR-based workflows. |
+| **EMOSEM** | AI-assisted content operations with scheduling, media workflows, and Telegram delivery. |
 
-### Logycy ERP
-Logistics, shipment, manifest, reporting and operational intelligence system.
+> Production repositories are private. Client data, credentials, and infrastructure details are never published here.
 
-### Hardworker ERP
-Workforce, payroll, attendance, project and field-operation management system.
+## What I work on
 
-### Oztemur ERP
-Construction workforce and payroll management platform built around real company workflows.
+- **Operational software** — translating real business routines into roles, workflows, validations, and reliable interfaces.
+- **ERP and finance systems** — payments, receivables, stock, projects, payroll, reporting, and multi-currency operations.
+- **Automation and intelligence** — AI-assisted workflows, Telegram bots, scheduled workers, and business-process automation.
+- **Data and reporting** — practical dashboards, exports, reconciliation tools, and decision-ready operational data.
+- **Delivery and operations** — containerized deployments, Linux servers, VPS infrastructure, and production-focused maintenance.
 
-Most production repositories are private because they belong to real businesses, real data and real operations.
+## Engineering toolbox
 
----
+| Area | Technologies |
+| --- | --- |
+| **Product & frontend** | TypeScript · React · Next.js · Vite · Tailwind CSS |
+| **Backend** | Node.js · Express · Laravel · PHP |
+| **Data** | PostgreSQL · Supabase · MySQL |
+| **Infrastructure** | Docker · Linux · VPS · Networking |
+| **Automation** | AI APIs · Telegram Bots · Scheduled Workers · Workflow Integrations |
 
-## Stack
+## How I work
 
-**Frontend**  
-TypeScript • React • Next.js • Vite • Tailwind CSS
+- Understand the real operation before designing the interface.
+- Treat permissions, financial accuracy, traceability, and data integrity as product features.
+- Reduce duplicate entry and fragile spreadsheet handoffs.
+- Ship small, reviewable changes with repeatable builds.
+- Keep production data, credentials, and customer-specific context protected.
+- Build software people can depend on during real working days—not just polished demos.
 
-**Backend**  
-Node.js • Express • Laravel • PHP
+## Current focus
 
-**Database & Cloud**  
-Supabase • PostgreSQL • MySQL • Docker • VPS
+Reliable financial operations, ERP modernization, business-process automation, and AI-assisted internal tools.
 
-**Automation**  
-Telegram Bots • AI APIs • scheduled workers • business workflows
+## Connect
 
-**IT & Security**  
-Linux servers • networking • system administration • security-minded deployments
-
----
-
-## Build Log
-
-**2026**  
-Built AI-driven social media automation systems.  
-Developed aluminum calculation and design workflows.  
-Created logistics reporting and analyst tools.  
-Built ERP-style platforms for real business operations.
-
-**2025**  
-Built CRM modules, QR platforms and internal business automation tools.  
-Worked across WordPress, Perfex CRM, Laravel, Supabase and custom deployments.
+For professional conversations about business systems, automation, or infrastructure, connect with me on [LinkedIn](https://www.linkedin.com/in/alireza-foroughifar).
 
 ---
 
-## Focus
-
-I like building software that solves ugly real-world problems.
-
-Not demo apps.  
-Not template websites.  
-Not pretty pages with no engine behind them.
-
-Systems.
-
----
-
-## Traces
-
-No contact form.  
-If you need me, you already know where to find me.
-
-Website: https://afrfuniverse.com  
-GitHub: https://github.com/afrfuniverse  
-Location: Cyprus
+<sub>Most of my production work is private by design. Public, sanitized engineering resources will be added over time.</sub>
