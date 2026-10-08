@@ -27,7 +27,7 @@ The goal is practical: replace fragmented spreadsheets and manual handoffs with 
 | **Metalux ERP** | Aluminium quotation and calculation, material planning, production, purchasing, invoicing, and project finance. |
 | **Mermer ERP** | Customer, product, stock, invoicing, payment, and operational workflows for marble businesses. |
 | **Logycy ERP** | Shipment, manifest, cheque, currency, reporting, and operational intelligence for logistics workflows. |
-| **Oztemur ERP** | Workforce, payroll, attendance, and project operations for construction teams. |
+| **Öztemur Puantaj** | Self-hosted workforce operations for personnel records, construction-site attendance, payroll, employment contracts, and a dedicated employee portal. |
 | **Hardworker ERP** | Attendance, payroll, project, and field-team management. |
 | **MyQRCodePlus** | Dynamic QR SaaS for digital profiles, business links, and QR-based workflows. |
 | **EMOSEM** | AI-assisted content operations with scheduling, media workflows, and Telegram delivery. |
