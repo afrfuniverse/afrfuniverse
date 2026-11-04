@@ -19,6 +19,12 @@ I turn complex business workflows into maintainable software. My work spans prod
 
 The goal is practical: replace fragmented spreadsheets and manual handoffs with clear workflows, useful controls, and systems that make day-to-day work easier to understand.
 
+## Featured project · OZTEMUR ERP SaaS
+
+A self-hosted, multi-tenant ERP for companies that need accounting, finance, CRM, inventory, purchasing, invoicing, projects, and contracts in one workspace. It supports company-level access controls, multi-currency operations, and reporting with Excel and PDF exports.
+
+I built the application with React, TypeScript, and Supabase/PostgreSQL, and deployed it with an isolated database, Turnstile login, scheduled backups, and a tested restore procedure. The web app also supports installation from compatible desktop and mobile browsers.
+
 ## Selected systems
 
 | System | Operational focus |
