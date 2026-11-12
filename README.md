@@ -50,6 +50,7 @@ These newer projects extend the same systems-first approach into commerce, custo
 | **Detailing Platform** | A multilingual vehicle-detailing experience with online booking, customer accounts, vehicle records, admin operations, 360° condition intake, protected documents, electronic signatures, and content management. |
 | **AFRF Smart VMS Web** | A Windows-first camera operations dashboard for P2P, HiEasy Cloud, and IP/RTSP sources, with multi-camera layouts, location permissions, PTZ controls, reconnect handling, and a native media bridge. |
 | **AFRF Universe** | A multilingual technical showcase and personal operating environment with project artifacts, a system map, build traces, localized routes, PWA support, and controlled content administration. |
+| **BeyazSiyah** | A Turkish and English product comparison platform with custom WordPress blocks, comparison workflows, AI tool discovery, SEO controls, and search-ready content operations. [Live site](https://beyazsiyah.com). |
 
 ## What I work on
 
