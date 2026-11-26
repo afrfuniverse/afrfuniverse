@@ -1,92 +1,59 @@
-<div align="center">
+<img src="assets/afrf-universe-header.webp" alt="AFRF Universe wordmark beside a stack of machined metal plates" width="100%">
 
 # Alireza Foroughifar
 
-### Full-Stack Product & Systems Engineer
+**Full-stack product and systems engineer based in Cyprus**
 
-**I build operational software that people can rely on every day.**<br>
-ERP, finance, logistics, automation, AI-assisted tools, and infrastructure.
+I build Windows desktop apps and business systems that turn spreadsheet-heavy work into clear, repeatable workflows. My work covers the full path from understanding an operation to designing, shipping, and running the software it depends on.
 
-[LinkedIn](https://www.linkedin.com/in/alireza-foroughifar) · [GitHub](https://github.com/afrfuniverse) · Cyprus
+[LinkedIn](https://www.linkedin.com/in/alireza-foroughifar/) · [YouTube tutorials](https://www.youtube.com/@alirezaforoughifar) · [Public repositories](https://github.com/afrfuniverse?tab=repositories)
 
-</div>
+## Free Windows apps
 
----
+| App | What it does | Install and learn |
+| --- | --- | --- |
+| [**GPOCasebook**](https://github.com/afrfuniverse/gpocasebook) | Investigate Group Policy failures on Windows. Compare before-and-after captures and export an offline evidence report. | [Microsoft Store](https://apps.microsoft.com/detail/9N6D294Z5PMZ) · [Demo](https://youtu.be/UiXlY1ROzfM) |
+| [**AFRF Cashbook Lite**](https://github.com/afrfuniverse/afrf-cashbook-lite) | Record cash receipts and payments offline, track balances by currency, and export filtered reports to Excel. | [Microsoft Store](https://apps.microsoft.com/detail/9P256QR4DXKQ) · [Demo](https://youtu.be/v4RI3hX917w) |
+| [**AFRF Backup Verify**](https://github.com/afrfuniverse/afrf-backup-verify) | Compare an original folder with its backup, flag missing or changed files, and check for damage in supported formats. | [Microsoft Store](https://apps.microsoft.com/detail/9MVT2078XCW2) · [Demo](https://youtu.be/AWULw6d47NA) |
 
-## About
+### Coming soon · AFRF PeopleDesk
 
-I turn complex business workflows into maintainable software. My work spans product thinking, full-stack development, data architecture, automation, deployment, and operational support.
+An offline Windows workspace for personnel records, attendance, employment contracts, and payroll preparation. It includes contract and letter templates, PDF and Excel exports, encrypted backups, and English, Persian, Turkish, Russian, and Arabic interfaces. Planned as a free Microsoft Store download.
 
-The goal is practical: replace fragmented spreadsheets and manual handoffs with clear workflows, useful controls, and systems that make day-to-day work easier to understand.
+[Product page and tutorials](https://github.com/afrfuniverse/afrf-peopledesk) · [English teaser](https://www.youtube.com/shorts/k8I2-XgQqOo) · [تیزر فارسی](https://www.youtube.com/shorts/k5QlSPfGSdE)
 
-## Featured project · OZTEMUR ERP SaaS
+## Business systems
 
-A self-hosted, multi-tenant ERP for companies that need accounting, finance, CRM, inventory, purchasing, invoicing, projects, and contracts in one workspace. It supports company-level access controls, multi-currency operations, and reporting with Excel and PDF exports.
+**Öztemur ERP** brings accounting, CRM, inventory, purchasing, projects, and contracts into one self-hosted, multi-company workspace. I built it with React, TypeScript, and Supabase/PostgreSQL. It supports company-level access controls, multiple currencies, and Excel and PDF reports.
 
-I built the application with React, TypeScript, and Supabase/PostgreSQL, and deployed it with an isolated database, Turnstile login, scheduled backups, and a tested restore procedure. The web app also supports installation from compatible desktop and mobile browsers.
-
-## Selected systems
-
-| System | Operational focus |
+| Area | Selected systems |
 | --- | --- |
-| **KASA Finance** | Cash, bank, cheque, payment, reconciliation, reporting, multi-currency, and controlled Excel workflows. |
-| **Metalux ERP** | Aluminium quotation and calculation, material planning, production, purchasing, invoicing, and project finance. |
-| **Mermer ERP** | Customer, product, stock, invoicing, payment, and operational workflows for marble businesses. |
-| **Logycy ERP** | Shipment, manifest, cheque, currency, reporting, and operational intelligence for logistics workflows. |
-| **Öztemur Puantaj** | Self-hosted workforce operations for personnel records, construction-site attendance, payroll, employment contracts, and a dedicated employee portal. |
-| **Hardworker ERP** | Attendance, payroll, project, and field-team management. |
-| **MyQRCodePlus** | Dynamic QR SaaS for digital profiles, business links, and QR-based workflows. |
-| **EMOSEM** | AI-assisted content operations with scheduling, media workflows, and Telegram delivery. |
+| Finance and operations | **KASA Finance** for cash, bank and cheque reconciliation · **Logycy ERP** for logistics and settlement |
+| Production and inventory | **Metalux ERP** for aluminium quoting and planning · **Mermer ERP** for marble sales and stock |
+| Workforce | **Öztemur Puantaj** and **Hardworker ERP** for attendance, payroll, and field-team workflows |
 
-> Production repositories are private. Client data, credentials, and infrastructure details are never published here.
+<details>
+<summary>More projects</summary>
 
-## Recent builds
+- **Dropship Control MVP** and **Detailing Platform** cover supplier intake, fulfillment, bookings, and customer operations.
+- **AFRF Smart VMS Web** brings camera feeds, PTZ controls, and location permissions into a Windows-first workspace.
+- **MyQRCodePlus** manages dynamic QR links. **EMOSEM** supports content scheduling and Telegram delivery.
+- **AFRF Universe** is my multilingual technical showcase. **BeyazSiyah** is a Turkish and English product comparison platform. [Visit BeyazSiyah](https://beyazsiyah.com)
 
-These newer projects extend the same systems-first approach into commerce, customer experience, video operations, and a public technical identity. Their repositories are private where the work is still internal or under active development.
+</details>
 
-| Project | What it explores |
-| --- | --- |
-| **Dropship Control MVP** | Managed multi-channel sales and fulfillment workflows: supplier intake, product candidates, channel drafts, simulated publishing, orders, tracking, and profit summaries. Live marketplace actions remain deliberately disabled until their integration and approval gates are complete. |
-| **Detailing Platform** | A multilingual vehicle-detailing experience with online booking, customer accounts, vehicle records, admin operations, 360° condition intake, protected documents, electronic signatures, and content management. |
-| **AFRF Smart VMS Web** | A Windows-first camera operations dashboard for P2P, HiEasy Cloud, and IP/RTSP sources, with multi-camera layouts, location permissions, PTZ controls, reconnect handling, and a native media bridge. |
-| **AFRF Universe** | A multilingual technical showcase and personal operating environment with project artifacts, a system map, build traces, localized routes, PWA support, and controlled content administration. |
-| **BeyazSiyah** | A Turkish and English product comparison platform with custom WordPress blocks, comparison workflows, AI tool discovery, SEO controls, and search-ready content operations. [Live site](https://beyazsiyah.com). |
+Client production systems are privately maintained. The public repositories here contain tools, documentation, or sample data intended for sharing.
 
-## What I work on
+## Public engineering tools
 
-- **Operational software** — translating real business routines into roles, workflows, validations, and reliable interfaces.
-- **ERP and finance systems** — payments, receivables, stock, projects, payroll, reporting, and multi-currency operations.
-- **Commerce and customer platforms** — booking, fulfillment, product workflows, content operations, and reconciliation.
-- **Automation and intelligence** — AI-assisted workflows, Telegram bots, scheduled workers, and business-process automation.
-- **Data and delivery** — practical dashboards, exports, Supabase/PostgreSQL systems, containers, Linux, and VPS operations.
+- [**VolumeWitness**](https://github.com/afrfuniverse/volumewitness) checks whether the next Docker Compose deployment would switch database volumes.
+- [**ClockSkewProof**](https://github.com/afrfuniverse/clockskewproof) checks whether captured clock skew could explain a TLS or Kerberos timing result.
+- [**SMBProof**](https://github.com/afrfuniverse/smbproof) verifies expected read access to a test file from a specific Windows logon.
 
-## Engineering toolbox
+I work with **C#/.NET and WPF** for Windows, **React and TypeScript** for web, and **PostgreSQL, Supabase, Docker, and Linux** for data and delivery.
 
-| Area | Technologies |
-| --- | --- |
-| **Product & frontend** | TypeScript · React · Next.js · Vite · Tailwind CSS |
-| **Backend** | Node.js · Express · Python · Laravel · PHP |
-| **Data** | PostgreSQL · Supabase · MySQL |
-| **Infrastructure** | Docker · Linux · VPS · Networking |
-| **Automation** | AI APIs · Telegram Bots · Scheduled Workers · Workflow Integrations |
+## ارتباط و آموزش
 
-## How I work
+ابزارهای ویندوزی و سامانه‌های سازمانی می‌سازم. برنامه‌های رایگان بالا در Microsoft Store در دسترس‌اند و آموزش‌ها و معرفی نسخه‌های تازه را در یوتیوب منتشر می‌کنم. [کانال یوتیوب](https://www.youtube.com/@alirezaforoughifar)
 
-- Understand the real operation before designing the interface.
-- Treat permissions, financial accuracy, traceability, and data integrity as product features.
-- Reduce duplicate entry and fragile spreadsheet handoffs.
-- Ship small, reviewable changes with repeatable builds and clear rollback paths.
-- Keep production data, credentials, and customer-specific context protected.
-- Build software people can depend on during real working days—not just polished demos.
-
-## Current focus
-
-Reliable financial operations, ERP modernization, commerce and fulfillment workflows, customer-service platforms, camera operations, and AI-assisted internal tools.
-
-## Connect
-
-For professional conversations about business systems, automation, or infrastructure, connect with me on [LinkedIn](https://www.linkedin.com/in/alireza-foroughifar).
-
----
-
-<sub>Most of my production work is private by design. Public, sanitized engineering resources will be added over time.</sub>
+[LinkedIn](https://www.linkedin.com/in/alireza-foroughifar/) · [Instagram](https://www.instagram.com/alirezafrf/) · [Facebook](https://www.facebook.com/Alirezafrf) · [Threads](https://www.threads.com/@alirezafrf)
